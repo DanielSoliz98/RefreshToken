@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\RefreshToken\ForecastRefresh\obj\Debug\netcoreapp2.2\Forecast.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\RefreshToken\ForecastRefresh\obj\Debug\netcoreapp2.2\Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\RefreshToken\ForecastRefresh\obj\Debug\netcoreapp2.2\Forecast.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\RefreshToken\ForecastRefresh\obj\Debug\netcoreapp2.2\Forecast.AssemblyInfo.cs
